@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "email": "wellysson35@gmail.com",
+      "password": "Well@34125234"
+    }
+  ],
+  "register": [
+    {
+      "email": "wellysson35@gmail.com",
+      "password": "Well@34125234"
+    }
+  ],
+  "users": [
+    {
+      "email": "wellysson35@gmail.com",
+      "password": "$2a$10$gVEJ9efGapzBOnJ.Lr0TYesH14QfjsfupfT1Br5P106cx/nuZMOke",
+      "id": 1,
+      "nomeUser": "wellysson"
+    },
+    {
+      "email": "wellysson@gmail.com",
+      "password": "$2a$10$Ff3NX4Hp/pgwtvwpCO4.OOOXVDbUQ7mzfOQYE4Ui6W5W5ckSE5mdu",
+      "fullName": "wellysson",
+      "userName": "wellysson",
+      "id": 2
+    },
+    {
+      "email": "wr.ergon@gmail.com",
+      "password": "$2a$10$cb55EdC/A19xnX5izoAsRuyfNxmwKkTCRW9v7rsmjb6QyICRJEw1G",
+      "fullName": "Wellysson Nascimento Rocha",
+      "userName": "wrergon",
+      "id": 3
+    }
+  ]
+}
